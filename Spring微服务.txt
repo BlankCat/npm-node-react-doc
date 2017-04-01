@@ -1,0 +1,83 @@
+
+分布式
+https://springcloud.cc/
+
+Spring分布式官方文档
+https://springcloud.cc/spring-cloud-netflix-zhcn.html
+
+官方文档
+http://spring-cloud.io
+http://bbs.spring-cloud.io
+
+支付系统业务讲解
+http://www.roncoo.com/article/detail/124243
+
+讲解
+http://m.blog.csdn.net/article/details?id=52204113
+
+
+关系
+spring cloud = zk + dubbo + deploy
+spring cloud整机，dubbo需要自己组装；整机的性能有保证，组装的机子更自由。
+
+
+
+快速入门spring cloud（2）：服务发现之eureka
+http://blog.csdn.net/liumiaocn/article/details/53886164
+
+Spring基础：快速入门spring cloud（1）：Spring Cloud介绍
+http://blog.csdn.net/liumiaocn/article/details/53868315
+
+github例子
+https://github.com/spring-cloud-samples/feign-eureka
+
+
+Spring分布式
+http://www.xujin.org/sc/sc-netflix-eureka/
+
+Spring Cloud Netflix这个项目对于Spring Boot应用来说，
+它集成了NetFlix OSS的一些组件，只需通过注解配置和Spring环境的通用简单的使用注解，
+你可以快速的启用和配置这些久经测试考验的NetFlix的组件于你的应用和用于构建分布式系统中。
+这些组件包含的功能有
+服务发现（Eureka），
+熔断器（Hystrix），
+智能路由(Zuul)，
+客户端的负载均衡器（Ribbon）
+
+
+为什么要选择 Eureka?
+那么为什么我们在项目中使用了Eureka呢？主要原因如下:
+1 它提供了完整的Service Registry和Service Discovery实现
+	首先是提供了完整的实现，并且也经受住了Netflix的生产环境考验，使用比较方便只需通过注解或简单配置的方式即可。
+2 和Spring Cloud无缝集成
+	Spring Cloud对Eureka做了无缝集成，提供了一套完善的解决方案，所以使用起来非常方便。
+	另外，Eureka支持嵌入到应用自身的容器中启动，应用启动完之后，既充当了Eureka的角色，同时也是服务的提供者。这样就极大的提高了服务的可用性。
+3 开源
+	开源代码，方便学习掌握其源码并驾驭它。
+
+
+
+
+
+
+数据库中的表结构和元数据
+表结构就是定义一个表的字段、类型、主键、外键、索引，这些基本的属性组成了数据库的表结构
+元数据最本质、最抽象的定义为：data about data (关于数据的数据)。具体指在数据库建设过程中所产生的有关数据源定义，目标定义，转换规则等相关的关键数据。包括以下信息：程序集的说明；标识（名称、版本、区域性、公钥）；导出的类型；该程序搜索集所依赖的其他程序集；运行所需的安全权限；类型的说明；名称、可见性、基类和实现的接口；成员（方法、字段、属性、事件、嵌套的类型）；
+属性；修饰类型和成员的其他说明性元素
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

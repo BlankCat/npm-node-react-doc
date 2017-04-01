@@ -1,0 +1,30 @@
+https://ant.design/components/date-picker-cn/
+
+
+蚂蚁尽然哦那个组件
+https://github.com/Anthilla/Antd
+
+
+react中使用wowjs 让元素做动画
+https://github.com/zhaozhuoboy/react-wow
+官网
+http://mynameismatthieu.com/WOW/
+github文档
+https://github.com/matthieua/WOW
+
+
+阿里巴巴集团（查看官网的路由设置）
+http://www.alibabagroup.com/cn/global/home
+
+IDST(Institute,of,Data,Science&Technologies）
+数据科学与技术研究院
+Institute 研究所
+Data 数据
+Science 科学
+Technologies 技术
+
+
+
+
+免费听英语
+https://www.udemy.com/the-complete-web-development-tutorial-using-react-and-redux/?utm_source=linkshare&pmtag=ENDMARCH10&siteID=EvuWeir80nw-hXnhogvOlvDrAoJN3I0Hig&LSNPUBID=EvuWeir80nw

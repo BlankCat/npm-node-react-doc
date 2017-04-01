@@ -1,0 +1,26 @@
+http://blog.csdn.net/blueling51/article/details/7942812
+
+
+https://github.com/ScorpionJay/react-web-demo
+
+服务端解决策略
+package.json
+  "cors": "^2.8.1"
+// 关闭同源策略
+var cors = require('cors');
+app.use(cors());
+
+
+
+跨域通过配置nginx
+
+
+
+蚂蚁尽然哦那个组件
+https://github.com/Anthilla/Antd
+
+
+
+node进程管理 pm2
+管理node进程
+https://github.com/Unitech/pm2
