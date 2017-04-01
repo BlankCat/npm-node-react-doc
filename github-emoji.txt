@@ -1,0 +1,16 @@
+github 表情
+github秘籍
+https://www.kancloud.cn/thinkphp/github-tips/37887
+常见的github表情
+https://github.com/scotch-io/All-Github-Emoji-Icons
+EMOJI CHEAT SHEET
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+项目讲解
+https://github.com/github/gemoji
+
+如何使用
+:blush: 会显示成
+所以你在提交代码的时候可以这样写提交信息：
+git commit –m 'commit some changes :blush:'
+支持的网站
